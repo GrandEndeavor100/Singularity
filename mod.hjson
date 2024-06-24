@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Singularity"
+
+#the internal name of your mod
+name: "singularity"
+
+#your name
+author: "Stellar"
+
+#the fully qualified main class of the mod
+main: "singularity.Singularity"
+
+#the mod description as seen in the mod dialog
+description: "Alpha Java"
+
+#the mod version
+version: 0.2
+
+#the minimum game build required to run this mod
+minGameVersion: 145
+
+#this is a java mod
+java: true
